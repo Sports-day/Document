@@ -2,6 +2,13 @@ site_name: Document
 copyright: "&copy; 2023-present Sports-day"
 repo_url: https://github.com/Sports-day/Document
 repo_name: Sports-day/Document
+nav:
+  - チュートリアル:
+      - tutorial/index.md
+      - フロントエンド:
+          - tutorial/frontend/index.md
+      - バックエンド:
+          - tutorial/backend/index.md
 extra:
   social:
     - icon: fontawesome/brands/github
