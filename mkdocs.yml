@@ -8,6 +8,7 @@ nav:
       - tutorial/index.md
       - フロントエンド:
           - tutorial/frontend/index.md
+          - 01 - TypeScript: tutorial/frontend/01-typescript/index.md
       - バックエンド:
           - tutorial/backend/index.md
 extra:
