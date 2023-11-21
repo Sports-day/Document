@@ -12,6 +12,10 @@ nav:
           - 02 - HTTPリクエスト: tutorial/frontend/02-http-request/index.md
       - バックエンド:
           - tutorial/backend/index.md
+      - 共通:
+          - tutorial/common/index.md
+          - 01 - Git: tutorial/common/01-git/index.md
+          - 02 - VS Code 拡張機能: tutorial/common/02-vscode-extensions/index.md
 extra:
   social:
     - icon: fontawesome/brands/github
