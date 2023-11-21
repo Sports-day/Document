@@ -7,7 +7,7 @@
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
   コメントが見やすくなります
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  VS Code の保管機能を強化します
+  VS Code の補完機能を強化します
 - [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
   JavaScript/TypeScript の拡張機能
 - [Nextjs Snippets](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets)
