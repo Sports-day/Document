@@ -21,6 +21,8 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Sports-day
 theme:
+  favicon: assets/sportsday-icon-512x512.png
+  logo: assets/sportsday-icon-512x512.png
   name: material
   language: ja
   features:
